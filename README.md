@@ -10,4 +10,4 @@ This is intended towards students, new to this field and finding it difficult to
 As i get free time i will keep on commiting to this repo with more solutions.
 
 Keep visiting, much more solutions from HackerEarth are coming soon.
-
+If you don't find the question Link in .C file, try to search it on HackerEarth.
